@@ -10,14 +10,14 @@
 /************************* WiFi Access Point *********************************/
 
 #define WLAN_SSID       "FRITZ!Box 4020 SE"
-#define WLAN_PASS       "24428296848942173343"
+#define WLAN_PASS       "xxxxxxxxxxxxxxxxxxxx"
 
 /************************* MQTT       Setup *********************************/
 
-#define AIO_SERVER      "78.47.118.13"
+#define AIO_SERVER      "xx.xx.xxx.xxx"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
-#define AIO_USERNAME    "linus"
-#define AIO_KEY         "corebd08"
+#define AIO_USERNAME    "xxxxx"
+#define AIO_KEY         "xxxxx"
 
 // SI7021 I2C address is 0x40(64)
 #define si7021Addr 0x40
